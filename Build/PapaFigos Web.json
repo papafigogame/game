@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PapaFigos Web.data.unityweb",
+"asmCodeUrl": "PapaFigos Web.asm.code.unityweb",
+"asmMemoryUrl": "PapaFigos Web.asm.memory.unityweb",
+"asmFrameworkUrl": "PapaFigos Web.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
